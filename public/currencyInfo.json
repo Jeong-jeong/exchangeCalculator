@@ -1,0 +1,13 @@
+{
+  "success":true,
+  "timestamp":1647245463,
+  "source":"USD",
+  "quotes":{
+    "USDUSD":1,
+    "USDCAD":1.27656,
+    "USDKRW":1240.50497,
+    "USDHKD":7.82777,
+    "USDJPY":117.754505,
+    "USDCNY":6.3611
+  }
+}
